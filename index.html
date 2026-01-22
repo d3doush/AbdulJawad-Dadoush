@@ -1463,12 +1463,34 @@ My work is firmly grounded in the vision and strategy of the Global and Middle E
   <script src="js/script.js"></script>
   <!-- Live Style Js - Demo Only -->
   <script src="js/styleSwitcher.js"></script>
-  <script data-goatcounter="https://d3doush.goatcounter.com/count"
+
+<!-- GoatCounter -->
+<script data-goatcounter="https://d3doush.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+
+<!-- Page tracking for SPA -->
+<script>
+  function trackPage(page) {
+    if (window.goatcounter && typeof goatcounter.count === 'function') {
+      goatcounter.count({
+        path: '/' + page.toLowerCase(),
+        title: page
+      });
+    }
+  }
+</script>
+
+<!-- Navigation -->
+<button onclick="trackPage('About')">About</button>
+<button onclick="trackPage('Portfolio')">Portfolio</button>
+<button onclick="trackPage('Certificate')">Certificate</button>
+
+        
   <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "772f64a35126489686a43c63dbc616e3"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 
 </html>
+
 
 
 
