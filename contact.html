@@ -258,6 +258,21 @@
       window.open(whatsappLink, '_blank');
     });
   </script>
+<!-- GoatCounter -->
+<script data-goatcounter="https://d3doush.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
+<!-- Page tracking for SPA -->
+<script>
+  function trackPage(page) {
+    if (window.goatcounter && typeof goatcounter.count === 'function') {
+      goatcounter.count({
+        path: '/' + page.toLowerCase(),
+        title: page
+      });
+    }
+  }
+</script>
 
 </body>
 
