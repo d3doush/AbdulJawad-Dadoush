@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <title>Contact - Abdul Jawad Dadoush</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <!-- Template css Files -->
+  <link rel="stylesheet" href="css/style.css" type="text/css">
+
+  <!-- Live Style Switcher - Demo Only -->
+  <link rel="stylesheet" class="alternate-style" title="pink" href="css/skins/pink.css" type="text/css">
+  <link rel="stylesheet" class="alternate-style" title="blue" href="css/skins/blue.css" type="text/css" disabled>
+  <link rel="stylesheet" class="alternate-style" title="green" href="css/skins/green.css" type="text/css" disabled>
+  <link rel="stylesheet" class="alternate-style" title="orange" href="css/skins/orange.css" type="text/css" disabled>
+  <link rel="stylesheet" class="alternate-style" title="yellow" href="css/skins/yellow.css" type="text/css" disabled>
+  <link rel="stylesheet" href="css/styleSwitcher.css" type="text/css">
+</head>
+
+<body>
+
+  <!-- Preloader -->
+  <div class="preloader">
+    <div class="loader">
+
+    </div>
+  </div>
+  <!-- Preloader End -->
+
+  <!-- Main Container -->
+  <div class="main-container">
+    <!-- Aside -->
+    <div class="aside">
+      <!-- Nav Toggler Btn -->
+      <div class="nav-toggler">
+        <span></span>
+      </div>
+      <div class="aside-inner">
+        <!-- Logo -->
+        <div class="logo">
+          <a href="index.html">D3doush</a>
+        </div>
+        <!-- Nav -->
+        <ul class="nav">
+          <li><a href="index.html"><i class="fa fa-home"></i> Home</a></li>
+          <li><a href="about.html"><i class="fa fa-user"></i> About</a></li>
+          <li><a href="portfolio.html"><i class="fa fa-briefcase"></i> Portfolio</a></li>
+          <li><a href="certificate.html"><i class="fa fa-briefcase"></i> Certificate</a></li>
+          <li><a href="contact.html" class="active"><i class="fa fa-comments"></i> Contact</a></li>
+        </ul>
+        <!-- Copyright -->
+        <div class="copyright-text">
+          &copy; 2020 The WebShala Template
+        </div>
+      </div>
+    </div>
+    <!-- Aside End -->
+    <!-- Main Content -->
+    <div class="main-content">
+      <!-- Contact Section Start -->
+      <section class="contact section active" id="contact">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="section-title padd-15">
+                                <h2>Get In Touch</h2>
+                                <p style="color: #a0a0a0; margin-top: 10px;">Feel free to reach out. I'll get back to you as soon as possible.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Quick Contact Cards Start -->
+                    <div class="row" style="margin-bottom: 40px;">
+                        <div class="col-lg-3 col-md-6 padd-15">
+                            <div class="contact-card" style="background: rgba(255, 107, 107, 0.1); padding: 20px; border-radius: 10px; text-align: center; border-left: 4px solid #ff6b6b; min-height: 180px; display: flex; flex-direction: column; justify-content: center;">
+                                <div style="font-size: 30px; color: #ff6b6b; margin-bottom: 10px;">
+                                    <i class="fas fa-mobile-alt"></i>
+                                </div>
+                                <h4 style="margin: 10px 0 5px;">Phone</h4>
+                                <p style="color: #a0a0a0; font-size: 14px;"><a href="tel:+966569810543" style="color: #ff6b6b; text-decoration: none;">+966 569810543</a></p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 padd-15">
+                            <div class="contact-card" style="background: rgba(0, 184, 255, 0.1); padding: 20px; border-radius: 10px; text-align: center; border-left: 4px solid #00b8ff; min-height: 180px; display: flex; flex-direction: column; justify-content: center;">
+                                <div style="font-size: 30px; color: #00b8ff; margin-bottom: 10px;">
+                                    <i class="fas fa-envelope"></i>
+                                </div>
+                                <h4 style="margin: 10px 0 5px;">Email</h4>
+                                <p style="color: #a0a0a0; font-size: 14px;"><a href="mailto:d3doush@hotmail.com" style="color: #00b8ff; text-decoration: none;">D3doush@hotmail.com</a></p>
+                             
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 padd-15">
+                            <div class="contact-card" style="background: rgba(31, 194, 40, 0.1); padding: 20px; border-radius: 10px; text-align: center; border-left: 4px solid #1fc228; min-height: 180px; display: flex; flex-direction: column; justify-content: center;">
+                                <div style="font-size: 30px; color: #1fc228; margin-bottom: 10px;">
+                                    <i class="fas fa-map-marker-alt"></i>
+                                </div>
+                                <h4 style="margin: 10px 0 5px;">Location</h4>
+                                <p style="color: #a0a0a0; font-size: 14px;">Dammam, Saudi Arabia</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 padd-15">
+                            <div class="contact-card" style="background: rgba(255, 197, 0, 0.1); padding: 20px; border-radius: 10px; text-align: center; border-left: 4px solid #ffc500; min-height: 180px; display: flex; flex-direction: column; justify-content: center;">
+                                <div style="font-size: 30px; color: #ffc500; margin-bottom: 10px;">
+                                    <i class="fas fa-clock"></i>
+                                </div>
+                                <h4 style="margin: 10px 0 5px;">Response Time</h4>
+                                <p style="color: #a0a0a0; font-size: 14px;">24 Hours Max.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Quick Contact Cards End -->
+                    
+                    <div class="row">
+                        <!-- Contact Form Start -->
+                        <div class="col-lg-6">
+                            <div class="contact-form padd-15">
+                                <h3 class="sub-title" style="display: flex; align-items: center; gap: 10px;"><i class="fas fa-paper-plane" style="color: #00b8ff;"></i> Send Message</h3>
+                                <form id="contactForm">
+                                    <div class="row">
+                                        <div class="col-md-6 padd-15">
+                                            <div class="form-group">
+                                                <label style="color: #a0a0a0; font-size: 12px; margin-bottom: 5px; display: block;"><i class="fas fa-user" style="color: #00b8ff; margin-right: 5px;"></i>Full Name</label>
+                                                <input type="text" class="form-control" placeholder="Abdul Jawad" id="contactName" name="name" style="border: 1px solid rgba(0, 184, 255, 0.3); border-radius: 5px; background: rgba(0, 0, 0, 0.3);" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6 padd-15">
+                                            <div class="form-group">
+                                                <label style="color: #a0a0a0; font-size: 12px; margin-bottom: 5px; display: block;"><i class="fas fa-envelope" style="color: #00b8ff; margin-right: 5px;"></i>Email Address</label>
+                                                <input type="email" class="form-control" placeholder="your@email.com" id="contactEmail" name="email" style="border: 1px solid rgba(0, 184, 255, 0.3); border-radius: 5px; background: rgba(0, 0, 0, 0.3);" required>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-12 padd-15">
+                                            <div class="form-group">
+                                                <label style="color: #a0a0a0; font-size: 12px; margin-bottom: 5px; display: block;"><i class="fas fa-heading" style="color: #00b8ff; margin-right: 5px;"></i>Subject</label>
+                                                <input type="text" class="form-control" placeholder="Your subject here" id="contactSubject" name="subject" style="border: 1px solid rgba(0, 184, 255, 0.3); border-radius: 5px; background: rgba(0, 0, 0, 0.3);" required>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-12 padd-15">
+                                            <div class="form-group">
+                                                <label style="color: #a0a0a0; font-size: 12px; margin-bottom: 5px; display: block;"><i class="fas fa-comment" style="color: #00b8ff; margin-right: 5px;"></i>Message</label>
+                                                <textarea class="form-control" rows="5" placeholder="Type your message here..." id="contactMessage" name="message" style="border: 1px solid rgba(0, 184, 255, 0.3); border-radius: 5px; background: rgba(0, 0, 0, 0.3); resize: vertical;" required></textarea>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-6 padd-15">
+                                            <button type="button" id="sendEmail" class="btn" style="background: linear-gradient(135deg, #00b8ff, #0084ff); border: none; padding: 12px 30px; border-radius: 5px; width: 100%; font-weight: 600; transition: all 0.3s; color: #fff; cursor: pointer;"><i class="fas fa-paper-plane" style="margin-right: 8px;"></i> Send Email</button>
+                                        </div>
+                                        <div class="col-md-6 padd-15">
+                                            <button type="button" id="sendWhatsapp" class="btn" style="background: linear-gradient(135deg, #25D366, #128C7E); border: none; padding: 12px 30px; border-radius: 5px; width: 100%; font-weight: 600; transition: all 0.3s; color: #fff; cursor: pointer;"><i class="fab fa-whatsapp" style="margin-right: 8px;"></i> Send WhatsApp</button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                        <!-- Contact Form End -->
+                        
+                        <!-- Contact Info Start -->
+                        <div class="col-lg-6">
+                            <div class="contact-info-container padd-15">
+                                
+                                
+                                <h3 class="sub-title" style="margin-top: 30px; display: flex; align-items: center; gap: 10px;"><i class="fas fa-share-alt" style="color: #e91e63;"></i> Follow Me</h3>
+                                <div class="contact-social-links padd-15" style="display: flex; gap: 12px; flex-wrap: wrap;">
+                                    <a href="https://www.linkedin.com/in/abdul-jawad-dadoush/" target="_blank" class="contact-social-link" style="width: 45px; height: 45px; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, #0a66c2, #005399); border-radius: 8px; transition: all 0.3s; hover: transform 0.2s scale(1.1);">
+                                        <i class="fab fa-linkedin fa-fw" style="color: #fff; font-size: 18px;"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Contact Info End -->
+                    </div>
+                </div>
+            </section>
+      </section>
+      <!-- Contact Section End -->
+      
+      <!-- Footer -->
+      <footer>Copyright &copy; 2020 The WebShala</footer>
+    </div>
+    <!-- Main Content End -->
+  </div>
+  <!-- Main Container End -->
+
+  <!-- Style Switcher -->
+  <div class="style-switcher">
+    <div class="toggleStyleSwitcher">
+      <i class="fa fa-cog"></i>
+    </div>
+    <h5>Theme Colors</h5>
+    <ul>
+      <li><a href="javascript:void(0);" title="pink" onclick="setActiveStyle('pink')" style="background: #ec1839;"></a></li>
+      <li><a href="javascript:void(0);" title="blue" onclick="setActiveStyle('blue')" style="background: #0084ff;"></a></li>
+      <li><a href="javascript:void(0);" title="green" onclick="setActiveStyle('green')" style="background: #12c564;"></a></li>
+      <li><a href="javascript:void(0);" title="orange" onclick="setActiveStyle('orange')" style="background: #ff9d00;"></a></li>
+      <li><a href="javascript:void(0);" title="yellow" onclick="setActiveStyle('yellow')" style="background: #ffd700;"></a></li>
+    </ul>
+  </div>
+  <!-- Style Switcher End -->
+
+  <!-- Script Files -->
+  <script src="js/script.js"></script>
+  <script src="js/styleSwitcher.js"></script>
+
+  <!-- Contact Form Functionality -->
+  <script>
+    // زر إرسال الإيميل
+    document.getElementById('sendEmail').addEventListener('click', function(e) {
+      e.preventDefault();
+      const name = document.getElementById('contactName').value;
+      const email = document.getElementById('contactEmail').value;
+      const subject = document.getElementById('contactSubject').value;
+      const message = document.getElementById('contactMessage').value;
+      
+      // إنشاء رابط mailto
+      const mailtoLink = `mailto:d3doush@hotmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\n${message}`)}`;
+      window.location.href = mailtoLink;
+    });
+
+    // زر إرسال الواتساب
+    document.getElementById('sendWhatsapp').addEventListener('click', function(e) {
+      e.preventDefault();
+      const name = document.getElementById('contactName').value;
+      const email = document.getElementById('contactEmail').value;
+      const subject = document.getElementById('contactSubject').value;
+      const message = document.getElementById('contactMessage').value;
+      
+      // التحقق من عدم ترك الحقول فارغة
+      if(!name || !email || !subject || !message) {
+        alert('Please fill in all fields');
+        return;
+      }
+
+      // إنشاء الرسالة
+      const whatsappMessage = `Hello, my name is ${name}.\n\nSubject: ${subject}\n\nMessage: ${message}\n\nYou can reach me at: ${email}`;
+      
+      // رقم الواتساب (966569810543)
+      const whatsappNumber = '966569810543';
+      
+      // إنشاء رابط الواتساب
+      const whatsappLink = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}`;
+      
+      // فتح الواتساب
+      window.open(whatsappLink, '_blank');
+    });
+  </script>
+
+</body>
+
+</html>
