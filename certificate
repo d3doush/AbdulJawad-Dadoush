@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certificate | Abdul Jawad Dadoush</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link id="alternate-style" rel="alternate stylesheet" href="">
+    <link rel="stylesheet" href="css/styleSwitcher.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- GoatCounter Analytics -->
+    <script data-goatcounter="https://d3doush.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+    
+    <!-- Cloudflare Web Analytics -->
+    <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "772f64a35126489686a43c63dbc616e3"}'></script>
+</head>
+<body>
+    <!-- Page Container -->
+    <div class="container">
+        <!-- Sidebar Start -->
+        <div class="aside">
+            <!-- Logo Start -->
+            <div class="logo">
+                <a href="index.html"><span>A</span>bdol</a>
+            </div>
+            <!-- Logo End -->
+            
+            <!-- Nav Start -->
+            <nav class="nav">
+                <div class="close-btn">
+                    <i class="fas fa-times"></i>
+                </div>
+                <ul class="nav-list">
+                    <li><a href="index.html" class="link-item"><span class="hover-link-color">01.</span> Home</a></li>
+                    <li><a href="about.html" class="link-item"><span class="hover-link-color">02.</span> About</a></li>
+                    <li><a href="portfolio.html" class="link-item"><span class="hover-link-color">03.</span> Portfolio</a></li>
+                    <li><a href="certificate.html" class="link-item active"><span class="hover-link-color">04.</span> Certificate</a></li>
+                    <li><a href="contact.html" class="link-item"><span class="hover-link-color">05.</span> Contact</a></li>
+                </ul>
+            </nav>
+            <!-- Nav End -->
+            
+            <!-- Contact Info Start -->
+            <div class="contact-info">
+                <div class="contact-info-item padd-15">
+                    <h4>Email</h4>
+                    <p><a href="mailto:d3dou3h@gmail.com">d3dou3h@gmail.com</a></p>
+                </div>
+                <div class="contact-info-item padd-15">
+                    <h4>Phone</h4>
+                    <p><a href="tel:+966555555555">+966 555 555 555</a></p>
+                </div>
+                <div class="contact-info-item padd-15">
+                    <h4>Birthday</h4>
+                    <p>Feb 11, 1987</p>
+                </div>
+                <div class="contact-info-item padd-15">
+                    <h4>Location</h4>
+                    <p>Dammam, Saudi Arabia</p>
+                </div>
+            </div>
+            <!-- Contact Info End -->
+            
+            <!-- Social Links Start -->
+            <div class="social-links padd-15">
+                <a href="https://www.linkedin.com/in/abdul-jawad-dadoush/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                <a href="https://www.instagram.com/d3dou3h/" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://twitter.com/d3dou3h" target="_blank"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.facebook.com/d3dou3h" target="_blank"><i class="fab fa-facebook-f"></i></a>
+            </div>
+            <!-- Social Links End -->
+            
+            <!-- Copyright Start -->
+            <div class="copyright padd-15">
+                <p>&copy; 2024 Abdul Jawad Dadoush. All rights reserved.</p>
+            </div>
+            <!-- Copyright End -->
+        </div>
+        <!-- Sidebar End -->
+        
+        <!-- Main Content Start -->
+        <div class="main-content">
+            <!-- Header Start -->
+            <header class="header">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="header-content">
+                                <div class="hamburger-btn">
+                                    <span></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <!-- Header End -->
+            
+            <!-- Certificate Section Start -->
+            <section class="certificate section-padding">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="section-title padd-15">
+                                <h2>Certificates</h2>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Certificate Filter Start -->
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="certificate-filter padd-15">
+                                <button type="button" class="btn" data-filter="all">All</button>
+                                <button type="button" class="btn" data-filter="LVMH">LVMH</button>
+                                <button type="button" class="btn" data-filter="CHALHOUB">CHALHOUB</button>
+                                <button type="button" class="btn" data-filter="EDEXCEL">EDEXCEL</button>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Certificate Filter End -->
+                    
+                    <!-- Certificate Items Start -->
+                    <div class="row">
+                        <div class="certificate-item padd-15" data-category="EDEXCEL">
+                            <div class="certificate-item-inner">
+                                <div class="certificate-img">
+                                    <img src="images/Certificate/BTEC-EDEXCEL.jpeg" alt="BTEC EDEXCEL Certificate" loading="lazy">
+                                </div>
+                                <div class="certificate-info">
+                                    <h4>BTEC EDEXCEL</h4>
+                                    <p class="certificate-date">2012</p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="certificate-item padd-15" data-category="CHALHOUB">
+                            <div class="certificate-item-inner">
+                                <div class="certificate-img">
+                                    <img src="images/Certificate/CHALHOUB-Certificate.jpeg" alt="CHALHOUB Certificate" loading="lazy">
+                                </div>
+                                <div class="certificate-info">
+                                    <h4>CHALHOUB Certificate</h4>
+                                    <p class="certificate-date">Professional Excellence</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Certificate Items End -->
+                </div>
+            </section>
+            <!-- Certificate Section End -->
+            
+            <!-- Footer Start -->
+            <footer class="footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="footer-content padd-15 text-center">
+                                <p>&copy; 2024 Abdul Jawad Dadoush. All rights reserved.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <!-- Footer End -->
+        </div>
+        <!-- Main Content End -->
+    </div>
+    <!-- Page Container End -->
+    
+    <!-- Style Switcher Start -->
+    <div class="style-switcher">
+        <div class="toggle-style-switcher">
+            <i class="fas fa-cog"></i>
+        </div>
+        <h6>Theme Colors</h6>
+        <ul>
+            <li>
+                <a href="javascript:void(0);" title="pink" class="color-1" onclick="setActiveStyle('pink')"></a>
+            </li>
+            <li>
+                <a href="javascript:void(0);" title="blue" class="color-2" onclick="setActiveStyle('blue')"></a>
+            </li>
+            <li>
+                <a href="javascript:void(0);" title="green" class="color-3" onclick="setActiveStyle('green')"></a>
+            </li>
+            <li>
+                <a href="javascript:void(0);" title="orange" class="color-4" onclick="setActiveStyle('orange')"></a>
+            </li>
+            <li>
+                <a href="javascript:void(0);" title="yellow" class="color-5" onclick="setActiveStyle('yellow')"></a>
+            </li>
+        </ul>
+    </div>
+    <!-- Style Switcher End -->
+    
+    <!-- JavaScript Files -->
+    <script src="js/script.js"></script>
+    <script src="js/styleSwitcher.js"></script>
+    <script src="js/ityped.min.js"></script>
+    
+    <!-- Certificate Filter Functionality -->
+    <script>
+        document.querySelectorAll('.certificate-filter .btn').forEach(btn => {
+            btn.addEventListener('click', function() {
+                document.querySelectorAll('.certificate-filter .btn').forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+                
+                const filter = this.getAttribute('data-filter');
+                document.querySelectorAll('.certificate-item').forEach(item => {
+                    if (filter === 'all' || item.getAttribute('data-category') === filter) {
+                        item.style.display = 'block';
+                    } else {
+                        item.style.display = 'none';
+                    }
+                });
+            });
+        });
+        
+        // Set first button as active
+        document.querySelector('.certificate-filter .btn[data-filter="all"]').classList.add('active');
+    </script>
+</body>
+</html>
