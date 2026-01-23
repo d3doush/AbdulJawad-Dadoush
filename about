@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <title>About Me - Abdul Jawad Dadoush</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Template css Files -->
+  <link rel="stylesheet" href="css/style.css" type="text/css">
+
+  <!-- Live Style Switcher - Demo Only -->
+  <link rel="stylesheet" class="alternate-style" title="pink" href="css/skins/pink.css" type="text/css">
+  <link rel="stylesheet" class="alternate-style" title="blue" href="css/skins/blue.css" type="text/css" disabled>
+  <link rel="stylesheet" class="alternate-style" title="green" href="css/skins/green.css" type="text/css" disabled>
+  <link rel="stylesheet" class="alternate-style" title="orange" href="css/skins/orange.css" type="text/css" disabled>
+  <link rel="stylesheet" class="alternate-style" title="yellow" href="css/skins/yellow.css" type="text/css" disabled>
+  <link rel="stylesheet" href="css/styleSwitcher.css" type="text/css">
+</head>
+
+<body>
+
+  <!-- Preloader -->
+  <div class="preloader">
+    <div class="loader">
+
+    </div>
+  </div>
+  <!-- Preloader End -->
+
+  <!-- Main Container -->
+  <div class="main-container">
+    <!-- Aside -->
+    <div class="aside">
+      <!-- Nav Toggler Btn -->
+      <div class="nav-toggler">
+        <span></span>
+      </div>
+      <div class="aside-inner">
+        <!-- Logo -->
+        <div class="logo">
+          <a href="index.html">D3doush</a>
+        </div>
+        <!-- Nav -->
+        <ul class="nav">
+          <li><a href="index.html"><i class="fa fa-home"></i> Home</a></li>
+          <li><a href="about.html" class="active"><i class="fa fa-user"></i> About</a></li>
+          <li><a href="portfolio.html"><i class="fa fa-briefcase"></i> Portfolio</a></li>
+          <li><a href="certificate.html"><i class="fa fa-briefcase"></i> Certificate</a></li>
+          <li><a href="contact.html"><i class="fa fa-comments"></i> Contact</a></li>
+        </ul>
+        <!-- Copyright -->
+        <div class="copyright-text">
+          &copy; 2020 The WebShala Template
+        </div>
+      </div>
+    </div>
+    <!-- Aside End -->
+    <!-- Main Content -->
+    <div class="main-content">
+
+      <!-- About Section -->
+      <section class="about section active" id="about">
+        <div class="container">
+          <div class="row">
+            <div class="section-title padd-15">
+              <h2>About Me</h2>
+            </div>
+          </div>
+          <div class="row">
+            <div class="about-content padd-15">
+              <div class="row">
+                <div class="about-text padd-15">
+                  <h3>I'm Abdul Jawad  <span>VM Team Leader</span></h3>
+                  <p>Hi! My name is Abdul Jawad, a results-driven Visual Merchandising Leader with over 15 years of experience across the beauty sectors. I specialize in aligning global VM strategies with regional market execution, leading cross-functional teams, and creating innovative, customer-centric visual solutions.
+
+My work is firmly grounded in the vision and strategy of the Global and Middle East leadership, ensuring that all visual initiatives reflect brand excellence, regional relevance, and business impact. I bring deep technical knowledge, strategic vision, and hands-on field experience to every project I lead. </p>
+                </div>
+              </div>
+              <div class="row">
+                <div class="personal-info padd-15">
+                  <div class="row">
+                    <div class="info-item padd-15">
+                      <p>Birthday : <span>11 Feb 1987</span></p>
+                    </div>
+                    <div class="info-item padd-15">
+                      <p>Age : <span>38</span></p>
+                    </div>
+                    <div class="info-item padd-15">
+                      <p>Website : <span>d3doush.github.io/AbdulJawad-Dadoush</span></p>
+                    </div>
+                    <div class="info-item padd-15">
+                      <p>Email : <span>d3doush@hotmail.com</span></p>
+                    </div>
+                    <div class="info-item padd-15">
+                      <p>Phone : <span>+966 56 98 10 543</span></p>
+                    </div>
+                    <div class="info-item padd-15">
+                      <p>City : <span>Dammam</span></p>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="buttons padd-15">
+                      <a href="Abdul-Jawad-Dadoush CV25.pdf" class="btn">Download Cv</a>
+                      <a href="contact.html" class="btn hire-me">Hire me</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="skills padd-15">
+                  <div class="row">
+                    <div class="skill-item padd-15">
+                      <h5>CorelDraw</h5>
+                      <div class="progress">
+                        <div class="progress-in" style="width: 60%;"></div>
+                        <div class="skill-porcent">
+                          60%
+                        </div>
+                      </div>
+                    </div>
+                    <div class="skill-item padd-15">
+                      <h5>SketchUp</h5>
+                      <div class="progress">
+                        <div class="progress-in" style="width: 70%;"></div>
+                        <div class="skill-porcent">
+                          70%
+                        </div>
+                      </div>
+                    </div>
+                    <div class="skill-item padd-15">
+                      <h5>Adobe Photoshop</h5>
+                      <div class="progress">
+                        <div class="progress-in" style="width: 75%;"></div>
+                        <div class="skill-porcent">
+                          75%
+                        </div>
+                      </div>
+                    </div>
+                    <div class="skill-item padd-15">
+                      <h5>Adobe Illustrator</h5>
+                      <div class="progress">
+                        <div class="progress-in" style="width: 80%;"></div>
+                        <div class="skill-porcent">
+                          80%
+                        </div>
+                      </div>
+                    </div>
+                    <div class="skill-item padd-15">
+                      <h5>Microsoft Excel</h5>
+                      <div class="progress">
+                        <div class="progress-in" style="width: 85%;"></div>
+                        <div class="skill-porcent">
+                          85%
+                        </div>
+                      </div>
+                    </div>
+                    <div class="skill-item padd-15">
+                      <h5>Adaptable & Quick learner</h5>
+                      <div class="progress">
+                        <div class="progress-in" style="width: 100%;"></div>
+                        <div class="skill-porcent">
+                          100%
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="my missions padd-15">
+                  <h3 class="title">My Missions</h3>
+                  <div class="row">
+                    <div class="timeline-box padd-15">
+                      <div class="timeline shadow-dark">
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">VM Strategy Execution</h4>
+                          <p class="timeline-text">Plan and execute Visual Merchandising strategies in stores/exhibitions.</p>
+                        </div>
+                        <!-- timeline Item End -->
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">Brand Consistency</h4>
+                          <p class="timeline-text">Ensure brand identity and visual guidelines are respected.</p>
+                        </div>
+                        <!-- timeline Item End -->
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">Cross-Team Coordination</h4>
+                          <p class="timeline-text">Coordinate with internal teams (Marketing, Sales, Store Managers, HQ)</p>
+                        </div>
+                        <!-- timeline Item End -->                         
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">Training & Guidance</h4>
+                          <p class="timeline-text">Provide training and guidance to field teams on VM standards.</p>
+                        </div>
+                        <!-- timeline Item End -->
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">Budget Management</h4>
+                          <p class="timeline-text">Manage budgets related to VM (production, maintenance, campaigns).</p>
+                        </div>
+                        <!-- timeline Item End -->
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">Campaigns & Animations</h4>
+                          <p class="timeline-text">Supervise animations / campaigns / promotional activities in stores.</p>
+                        </div>
+                        <!-- timeline Item End -->
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">Quality Control & Reporting</h4>
+                          <p class="timeline-text">Monitor execution quality and provide reports.</p>
+                        </div>
+                        <!-- timeline Item End -->
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">Display Innovation</h4>
+                          <p class="timeline-text">Propose and develop new display tools (stands, boxes, decorations).</p>
+                        </div>
+                        <!-- timeline Item End -->
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">Trends & Technology Updates</h4>
+                          <p class="timeline-text">Stay updated with latest VM trends and technologies.</p>
+                        </div>
+                        <!-- timeline Item End -->
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">Team Leadership</h4>
+                          <p class="timeline-text">Manage and lead teams of coordinators, supervisors, or Field VMs.</p>
+                        </div>
+                        <!-- timeline Item End -->
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">Policies & Compliance</h4>
+                          <p class="timeline-text">Strong focus on policies, compliance, and company procedures.</p>
+                        </div>
+                        <!-- timeline Item End -->
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">KPI & Performance Management</h4>
+                          <p class="timeline-text">Involves leadership and performance management (KPIs) of a large team.</p>
+                        </div>
+                        <!-- timeline Item End -->
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">Systems & Processes Development</h4>
+                          <p class="timeline-text">Strong role in developing internal policies, systems, and processes.</p>
+                        </div>
+                        <!-- timeline Item End -->
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">Local Culture Adaptation</h4>
+                          <p class="timeline-text">Special emphasis on local culture adaptation (SAUDI ARABIA KINGDOM region).</p>
+                        </div>
+                        <!-- timeline Item End -->
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">Health & Safety Compliance</h4>
+                          <p class="timeline-text">Responsibility for health & safety compliance during installations.</p>
+                        </div>
+                        <!-- timeline Item End -->
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">Store Openings & Refits</h4>
+                          <p class="timeline-text">Strong focus on store openings and refits.</p>
+                        </div>
+                        <!-- timeline Item End -->
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">Large-Scale Animations / Podiums</h4>
+                          <p class="timeline-text">Manages large-scale animations and podiums (malls, mega events).</p>
+                        </div>
+                        <!-- timeline Item End --> 
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">Store & Counter Maintenance</h4>
+                          <p class="timeline-text">Oversees maintenance of stores and counters to ensure high standards.</p>
+                        </div>
+                        <!-- timeline Item End --> 
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">Sustainability Projects</h4>
+                          <p class="timeline-text">Leads sustainability projects (recycling, reusing, eco-friendly disposal).</p>
+                        </div>
+                        <!-- timeline Item End --> 
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h4 class="timeline-title">HQ–Regional–Local Alignment</h4>
+                          <p class="timeline-text">Acts as a bridge between HQ, regional, local teams, retailers, and suppliers.</p>
+                        </div>
+                        <!-- timeline Item End -->                                                                                                                                                                                                                                 
+                      </div>
+                    </div>
+                  </div>
+                <div class="education padd-15">
+                  <h3 class="title">Education</h3>
+                  <div class="row">
+                    <div class="timeline-box padd-15">
+                      <div class="timeline shadow-dark">
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2012</h6>
+                          <h4 class="timeline-title">Retail</h4>
+                          <p class="timeline-text">BTEC EDEXCEL.</p>
+                        </div>
+                        <!-- timeline Item End -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="proud to padd-15">
+                  <h3 class="title">Proud to</h3>
+                  <div class="row">
+                    <div class="timeline-box padd-15">
+                      <div class="timeline shadow-dark">
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2025</h6>
+                          <h4 class="timeline-title">Logistics & Supply Chain</h4>
+                          <p class="timeline-text">Developed and implemented a inventory system, improving field accuracy and asset control.</p>
+                        </div>
+                        <!-- timeline Item End -->
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2023</h6>
+                          <h4 class="timeline-title">Visual Merchandising</h4>
+                          <p class="timeline-text">Created an interactive Google Maps visualization tool displaying all POS locations across the Eastern Region, enabling visiting & auditing by senior management without field assistance.</p>
+                        </div>
+                        <!-- timeline Item End -->
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2022</h6>
+                          <h4 class="timeline-title">Visual Merchandising / Asset Management</h4>
+                          <p class="timeline-text">Led full classification of POSM across the Kingdom within record time.</p>
+                        </div>
+                        <!-- timeline Item End -->                         
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2022</h6>
+                          <h4 class="timeline-title">Marketing</h4>
+                          <p class="timeline-text">Designed a Snapchat filter for Women's Day across multiple brands.</p>
+                        </div>
+                        <!-- timeline Item End -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+                <div class="experience padd-15">
+                  <h3 class="title">Experience</h3>
+                  <div class="row">
+                    <div class="timeline-box padd-15">
+                      <div class="timeline shadow-dark">
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2019 - Now</h6>
+                          <h4 class="timeline-title">Visual Merchandiser - Coty Beauty</h4>
+                          <p class="timeline-text">Leading Visual Merchandising strategies and execution across multiple retail locations. Managing brand consistency, store openings, animations, and field team coordination.</p>
+                        </div>
+                        <!-- timeline Item End -->
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2016 - 2018</h6>
+                          <h4 class="timeline-title">Specialist - Sephora Arabia LTD</h4>
+                          <p class="timeline-text">Managed store operations, visual merchandising, and customer experience. Ensured brand excellence and visual guidelines compliance across locations.</p>
+                        </div>
+                        <!-- timeline Item End -->
+                        <!-- timeline Item -->
+                        <div class="timeline-item">
+                          <div class="circle-dot"></div>
+                          <h6 class="timeline-date"><i class="fa fa-calendar"></i> 2014 - 2016</h6>
+                          <h4 class="timeline-title">Field trainer - L'Oréal perfumes luxe KSA</h4>
+                          <p class="timeline-text">Provided training and guidance to field teams on product knowledge, visual merchandising standards, and brand positioning.</p>
+                        </div>
+                        <!-- timeline Item End -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- About Section End -->
+
+    </div>
+    <!-- Main Content End -->
+  </div>
+  <!-- Main Container End -->
+
+  <!-- Live Style Switcher - Demo Only -->
+  <div class="style-switcher">
+    <div class="toggle-style-switcher">
+      <i class="fa fa-cog fa-spin"></i>
+    </div>
+    <h5>Style Switcher</h5>
+    <ul>
+      <li><a href="javascript:void(0);" title="pink" style="background-color: #ec1839;" onclick="setActiveStyle('pink')"></a></li>
+      <li><a href="javascript:void(0);" title="blue" style="background-color: #2196f3;" onclick="setActiveStyle('blue')"></a></li>
+      <li><a href="javascript:void(0);" title="orange" style="background-color: #fa5b0f;" onclick="setActiveStyle('orange')"></a></li>
+      <li><a href="javascript:void(0);" title="yellow" style="background-color: #ffb400;" onclick="setActiveStyle('yellow')"></a></li>
+      <li><a href="javascript:void(0);" title="green" style="background-color: #72b626;" onclick="setActiveStyle('green')"></a></li>
+    </ul>
+    <h5>Body Skin</h5>
+    <label>
+      <input type="radio" class="body-skin" name="body-skin" value="light" checked="true"> Light
+    </label>
+    <label>
+      <input type="radio" class="body-skin" name="body-skin" value="dark"> Dark
+    </label>
+  </div>
+  <!-- Live Style Switcher - Demo Only End -->
+
+  <!-- Plugins -->
+  <script src="js/ityped.min.js"></script>
+  <!-- Template js -->
+  <script src="js/script.js"></script>
+  <!-- Live Style Js - Demo Only -->
+  <script src="js/styleSwitcher.js"></script>
+
+<!-- GoatCounter -->
+<script data-goatcounter="https://d3doush.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
+  <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "772f64a35126489686a43c63dbc616e3"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+
+</html>
