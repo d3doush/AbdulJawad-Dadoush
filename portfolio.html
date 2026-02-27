@@ -73,6 +73,7 @@
               <button type="button" data-filter="PODIUM">PODIUM</button>
               <button type="button" data-filter="FUN">FUN</button>
               <button type="button" data-filter="STAND">STAND</button>
+              <button type="button" data-filter="VIDEO">VIDEO</button>
             </div>
           </div>
           <div class="row">
@@ -103,6 +104,49 @@
                 </div>
               </div>
             </div>
+
+            <div class="portfolio-item padd-15" data-category="PODIUM">
+              <div class="portfolio-item-inner shadow-dark">
+                <div class="portfolio-img">
+                  <img src="images/portfolio/MAX FACTOR POPUP - 5.jpg" alt="PODIUM" loading="lazy">
+                </div>
+                <div class="portfolio-info">
+                  <h4>Max Factor POP-UP</h4>
+                  <div class="icon">
+                    <i class="fa fa-search"></i>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="portfolio-item padd-15" data-category="PODIUM">
+              <div class="portfolio-item-inner shadow-dark">
+                <div class="portfolio-img">
+                  <img src="images/portfolio/MAX FACTOR POPUP - 3.jpg" alt="PODIUM" loading="lazy">
+                </div>
+                <div class="portfolio-info">
+                  <h4>Max Factor POP-UP</h4>
+                  <div class="icon">
+                    <i class="fa fa-search"></i>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="portfolio-item padd-15" data-category="PODIUM">
+              <div class="portfolio-item-inner shadow-dark">
+                <div class="portfolio-img">
+                  <img src="images/portfolio/MAX FACTOR POPUP - 2.jpg" alt="PODIUM" loading="lazy">
+                </div>
+                <div class="portfolio-info">
+                  <h4>Max Factor POP-UP</h4>
+                  <div class="icon">
+                    <i class="fa fa-search"></i>
+                  </div>
+                </div>
+              </div>
+            </div>
+
             <div class="portfolio-item padd-15" data-category="POS">
               <div class="portfolio-item-inner shadow-dark">
                 <div class="portfolio-img">
@@ -701,6 +745,57 @@
                 </div>
               </div>
             </div>
+
+<div class="portfolio-item padd-15" 
+     data-category="VIDEO" 
+     data-media-type="video" 
+     data-video-src="images/portfolio/nars.mp4">
+  <div class="portfolio-item-inner shadow-dark">
+    <div class="portfolio-img">
+      <img src="images/portfolio/nars1.jpg" alt="VIDEO" loading="lazy">
+    </div>
+    <div class="portfolio-info">
+      <h4>NARS ICE CREAM CART</h4>
+      <div class="icon">
+        <i class="fa fa-play"></i>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="portfolio-item padd-15" 
+     data-category="VIDEO" 
+     data-media-type="video" 
+     data-video-src="images/portfolio/MAX FACTOR POPUP - 1.mp4">
+  <div class="portfolio-item-inner shadow-dark">
+    <div class="portfolio-img">
+      <img src="images/portfolio/MAX FACTOR POPUP - 5.jpg" alt="VIDEO" loading="lazy">
+    </div>
+    <div class="portfolio-info">
+      <h4>MAX FACTOR POP-UP</h4>
+      <div class="icon">
+        <i class="fa fa-play"></i>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="portfolio-item padd-15" 
+     data-category="VIDEO" 
+     data-media-type="video" 
+     data-video-src="images/portfolio/MATCH.mp4">
+  <div class="portfolio-item-inner shadow-dark">
+    <div class="portfolio-img">
+      <img src="images/portfolio/MATCH.jpg" alt="VIDEO" loading="lazy">
+    </div>
+    <div class="portfolio-info">
+      <h4>MATCH NEW CONCEPT (MAKE-UP)</h4>
+      <div class="icon">
+        <i class="fa fa-play"></i>
+      </div>
+    </div>
+  </div>
+</div>
+
           </div>
         </div>
       </section>
@@ -714,16 +809,19 @@
   <!-- Lightbox -->
   <div class="lightbox">
     <div class="lightbox-content">
-      <div class="lightbox-close">&times;</div>
-      <img src="" alt="" onclick="nextItem()" class="lightbox-img">
+      <button class="lightbox-close" title="إغلاق (ESC)">&times;</button>
+      <div class="media-container">
+        <img src="" alt="" class="lightbox-img" style="display:none;">
+        <video class="lightbox-video" controls style="display:none;"></video>
+      </div>
       <div class="lightbox-caption">
         <div class="caption-text"></div>
         <div class="caption-counter"></div>
       </div>
     </div>
     <div class="lightbox-controls">
-      <div class="prev-item" onclick="prevItem()"><i class="fa fa-angle-left"></i></div>
-      <div class="next-item" onclick="nextItem()"><i class="fa fa-angle-right"></i></div>
+      <button class="prev-item" title="السابق" onclick="prevItem()"><i class="fa fa-angle-left"></i></button>
+      <button class="next-item" title="التالي" onclick="nextItem()"><i class="fa fa-angle-right"></i></button>
     </div>
   </div>
   <!-- Lightbox End -->
@@ -735,7 +833,7 @@
     </div>
     <h5>Style Switcher</h5>
     <ul>
-      <li><a href="javascript:void(0);" title="pink" style="background-color: #ec1839;" onclick="setActiveStyle('pink')"></a></li>
+      <li><a href="javascript:void(0);" title="pink" style="background-color: #4278d0;" onclick="setActiveStyle('pink')"></a></li>
       <li><a href="javascript:void(0);" title="blue" style="background-color: #2196f3;" onclick="setActiveStyle('blue')"></a></li>
       <li><a href="javascript:void(0);" title="orange" style="background-color: #fa5b0f;" onclick="setActiveStyle('orange')"></a></li>
       <li><a href="javascript:void(0);" title="yellow" style="background-color: #ffb400;" onclick="setActiveStyle('yellow')"></a></li>
@@ -758,11 +856,13 @@
   <!-- Live Style Js - Demo Only -->
   <script src="js/styleSwitcher.js"></script>
 
-<!-- GoatCounter -->
+<!-- analytics scripts removed to avoid blocking load event -->
+<!-- GoatCounter and Cloudflare analytics temporarily disabled -->
+<!--
 <script data-goatcounter="https://d3doush.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
-
-  <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "772f64a35126489686a43c63dbc616e3"}'></script><!-- End Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "772f64a35126489686a43c63dbc616e3"}'></script>
+-->
 </body>
 
 </html>
